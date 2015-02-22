@@ -3,7 +3,7 @@ Contributors: xiaoxu125634
 Donate link: http://www.brunoxu.com/
 Tags: yupoo, images, save yupoo images, save post yupoo images, 又拍图片下载, 又拍图片保存, 又拍图片流量超过
 Requires at least: 3.0
-Tested up to: 4.0
+Tested up to: 4.1.1
 Stable tag: trunk
 
 文章中如果有又拍(yupoo)图片引用，先保存到本地目录，再更新数据库中数据，永久改变图片引用地址。
